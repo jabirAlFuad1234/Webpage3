@@ -1,0 +1,203 @@
+.bg-image{ 
+    outline: 2px solid black;
+    background-size: 150%;
+    background-image: url(fuad3/donation13.jpg);
+    background-repeat: no-repeat;
+    padding: 10em;
+    padding-bottom: 400px;
+    
+}
+.A{
+    color: white;
+    font-size: 30px;
+}
+h1{
+    color: white;
+    font-size: 40px;
+}
+B{
+    height: 10px;
+    width: 50px;
+}
+.x1{
+    text-decoration: none;
+    background-image:linear-gradient(orange,gold);
+    padding: 10px 40px;
+    border-radius: 10px;
+    color: aliceblue;
+    font-weight: 700;
+    font-size: 30px;
+}
+.H1{
+    color: black;
+    text-align: center;
+}
+.Zio
+{
+   padding-left: 200px;
+   padding-right: 300px;
+   padding-top: 1em;
+   font-size: 25px;
+   font-weight: 700;
+}
+.half-section{
+    height: 40%;
+    width: 80%;
+    padding: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.GR{
+    display:flex;
+    justify-content: space-between;
+}
+.b1{
+    color: black;
+}
+.m1{
+    outline:2px  ;
+    padding: .8em;
+    background-color:palevioletred;
+    outline-color: rgb(26, 56, 57);
+    ;
+}
+.ok1{
+    text-align: center;
+    padding-top: 2em;
+}
+.H2{
+    font-size: 30px;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 30px;
+}
+.polo1{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    font-size: 10px;
+    background-color: rgb(84, 230, 230);
+}
+.polo2{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    font-size: 10px;
+    background-color: palevioletred;
+}
+.polo3{
+    width: 70%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+    font-size: 10px;
+    background-color: cadetblue;
+}
+.sd{
+    display: flex;
+}
+.i1{
+    font-size: 50px;
+    padding-left: 50%;
+    padding-right: 50%;
+    padding-top: 20%;
+}
+.v1{
+    font-size: 30px;
+}
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto',sans-serif;
+    box-sizing: border-box;
+    background: #ececec;
+}
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10vh;
+}
+.form-box{
+    padding:10px;
+    border-radius: 5px;
+    background: #ececec;
+    box-shadow: 10px 10px 15px black;
+    padding-bottom: 10px;
+}
+.form-box input{
+    font-size: 18px;
+    color: black;
+    padding: 15px 10px;
+    background: #ececec;
+    border: none;
+    outline: none;
+}
+.form-box button{
+    color: #fff;
+    padding: 15px 20px;
+    font-size: 20px;
+    border:none;
+    border-radius: 5px;
+    background: orange;
+    
+}
+.footer{
+    padding-top: 150px;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    display: flex;
+    width: 100%;
+    text-align: center;
+}
+.footer p{
+    color: white;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 40px;
+}
+.tomato{
+    color: tomato;
+}
+.footer{
+    background-color: black;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 1em;
+}
+.pg{
+    background-color: black;
+    text-align: center;
+    padding-left:20% ;
+    padding-right:20%;
+    padding-top: 10%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+.l1{
+    text-align: center;
+    padding-left:40% ;
+    padding-right:40%;
+
+}
+.span1{
+    color:rgb(255, 165, 0)
+
+}
+.span2{
+    color:gray;
+}
